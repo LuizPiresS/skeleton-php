@@ -1,0 +1,3 @@
+{
+  "src/**/*.php": ["composer lint", "composer test:unit"]
+}
